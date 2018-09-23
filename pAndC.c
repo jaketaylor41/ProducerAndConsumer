@@ -118,9 +118,9 @@ consume(product);
 }
 
 printf("Buffer is empty!\n");
-producer()
+producer();
 
-}
+;}
 
 //Producer and Consumer begins with the call of the producer function.
 int main(){
